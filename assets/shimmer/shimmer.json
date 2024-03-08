@@ -1,0 +1,94 @@
+{
+  "ColorReference": {
+
+	"azure": { "r": 25, "g": 55, "b": 187, "a": 150 },
+	"scarlet": { "r": 187, "g": 25, "b": 25, "a": 150 },
+	"white": { "r": 187, "g": 25, "b": 25, "a": 150 },
+	"uraniumblock": { "r": 0, "g": 223, "b": 0, "a": 10 },
+	"uranium": { "r": 0, "g": 223, "b": 0, "a": 150 },
+	"ambersol": { "r": 255, "g": 242, "b": 0, "a": 10 },
+	"bioluminescent": { "r": 133, "g": 213, "b": 240, "a": 150 },
+	"radonBlack": { "r": 2, "g": 0, "b": 5, "a": 150 },
+	"radonGray": { "r": 88, "g": 88, "b": 88, "a": 150 },
+	"radonLightGray": { "r": 185, "g": 185, "b": 185, "a": 150 },
+	"radonWhite": { "r": 227, "g": 244, "b": 245, "a": 150 },
+	"radonBrown": { "r": 142, "g": 77, "b": 0, "a": 150 },
+	"radonOrange": { "r": 255, "g": 115, "b": 0, "a": 150 },
+	"radonMagenta": { "r": 212, "g": 0, "b": 223, "a": 150 },
+	"radonLightBlue": { "r": 0, "g": 144, "b": 255, "a": 150 },
+	"radonYellow": { "r": 255, "g": 250, "b": 0, "a": 150 },
+	"radonLime": { "r": 48, "g": 243, "b": 0, "a": 150 },
+	"radonPink": { "r": 255, "g": 34, "b": 148, "a": 150 },
+	"radonCyan": { "r": 0, "g": 240, "b": 240, "a": 150 },
+	"radonPurple": { "r": 146, "g": 0, "b": 236, "a": 150 },
+	"radonBlue": { "r": 81, "g": 0, "b": 255, "a": 150 },
+	"radonGreen": { "r": 0, "g": 180, "b": 3, "a": 150 },
+	"radonRed": { "r": 255, "g": 0, "b": 0, "a": 150 }
+  },
+  
+  "LightBlock": [
+
+	{ "block": "alexscaves:azure_neodymium_pillar", "color": "#azure", "radius": 2 },
+	{ "block": "alexscaves:scarlet_neodymium_pillar", "color": "#scarlet", "radius": 2 },
+	{ "block": "alexscaves:block_of_scarlet_neodymium", "color": "#scarlet", "radius": 3 },
+	{ "block": "alexscaves:block_of_azure_neodymium", "color": "#azure", "radius": 3 },
+	{ "block": "alexscaves:scarlet_neodymium_node", "color": "#scarlet", "radius": 3 },
+	{ "block": "alexscaves:azure_neodymium_node", "color": "#azure", "radius": 3 },
+	{ "block": "alexscaves:energized_galena_scarlet", "color": "#scarlet", "radius": 5 },
+	{ "block": "alexscaves:energized_galena_azure", "color": "#azure", "radius": 5 },
+	{ "block": "alexscaves:energized_galena_neutral", "color": "#white", "radius": 5 },
+	{ "block": "alexscaves:scarlet_magnet", "color": "#scarlet", "radius": 3 },
+	{ "block": "alexscaves:azure_magnet", "color": "#azure", "radius": 3 },
+	{ "block": "alexscaves:radon_lamp_black", "color": "#radonBlack", "radius": 15 },
+	{ "block": "alexscaves:radon_lamp_gray", "color": "#radonGray", "radius": 15 },
+	{ "block": "alexscaves:radon_lamp_light_gray", "color": "#radonLightGray", "radius": 15 },
+	{ "block": "alexscaves:radon_lamp_white", "color": "#radonWhite", "radius": 15 },
+	{ "block": "alexscaves:radon_lamp_brown", "color": "#radonBrown", "radius": 15 },
+	{ "block": "alexscaves:radon_lamp_orange", "color": "#radonOrange", "radius": 15 },
+	{ "block": "alexscaves:radon_lamp_magenta", "color": "#radonMagenta", "radius": 15 },
+	{ "block": "alexscaves:radon_lamp_light_blue", "color": "#radonLightBlue", "radius": 15 },
+	{ "block": "alexscaves:radon_lamp_yellow", "color": "#radonYellow", "radius": 15 },
+	{ "block": "alexscaves:radon_lamp_lime", "color": "#radonLime", "radius": 15 },
+	{ "block": "alexscaves:radon_lamp_pink", "color": "#radonPink", "radius": 15 },
+	{ "block": "alexscaves:radon_lamp_cyan", "color": "#radonCyan", "radius": 15 },
+	{ "block": "alexscaves:radon_lamp_purple", "color": "#radonPurple", "radius": 15 },
+	{ "block": "alexscaves:radon_lamp_blue", "color": "#radonBlue", "radius": 15 },
+	{ "block": "alexscaves:radon_lamp_green", "color": "#radonGreen", "radius": 15 },
+	{ "block": "alexscaves:radon_lamp_red", "color": "#radonRed", "radius": 15 },
+	{ "block": "alexscaves:block_of_uranium", "color": "#uraniumblock", "radius": 4 },
+	{ "block": "alexscaves:uranium_rod", "color": "#uranium", "radius": 9 },
+	{ "block": "alexscaves:siren_light", "state": {"powered": true}, "color": "#uranium", "radius": 10 },
+	{ "block": "alexscaves:unrefined_waste", "color": "#uranium", "radius": 3 },
+	{ "block": "alexscaves:ambersol", "color": "#ambersol", "radius": 15 },
+	{ "block": "alexscaves:bioluminescent_torch", "color": "#bioluminescent", "radius": 15 },
+
+	{ "block": "twilightforest:firefly", "color": "#radonLime", "radius": 15 }
+
+  ],
+
+  "Bloom": [
+
+	{ "block": "alexscaves:radon_lamp_black" },
+	{ "block": "alexscaves:radon_lamp_gray" },
+	{ "block": "alexscaves:radon_lamp_light_gray" },
+	{ "block": "alexscaves:radon_lamp_white" },
+	{ "block": "alexscaves:radon_lamp_orange" },
+	{ "block": "alexscaves:radon_lamp_magenta" },
+	{ "block": "alexscaves:radon_lamp_light_blue" },
+	{ "block": "alexscaves:radon_lamp_yellow" },
+	{ "block": "alexscaves:radon_lamp_lime" },
+	{ "block": "alexscaves:radon_lamp_pink" },
+	{ "block": "alexscaves:radon_lamp_cyan" },
+	{ "block": "alexscaves:radon_lamp_purple" },
+	{ "block": "alexscaves:radon_lamp_blue" },
+	{ "block": "alexscaves:radon_lamp_brown" },
+	{ "block": "alexscaves:radon_lamp_green" },
+	{ "block": "alexscaves:radon_lamp_red" },
+	{ "block": "alexscaves:bioluminescent_torch" },
+	{ "block": "alexscaves:unrefined_waste" },
+
+	{ "particle": "twilightforest:firefly" }
+
+  ]
+}
+
