@@ -24,6 +24,7 @@
 	"radonBlue": { "r": 81, "g": 0, "b": 255, "a": 150 },
 	"radonGreen": { "r": 0, "g": 180, "b": 3, "a": 150 },
 	"radonRed": { "r": 255, "g": 0, "b": 0, "a": 150 },
+	  
 	"firefly": { "r": 192, "g": 255, "b": 0, "a": 150 }
   },
   
@@ -63,7 +64,9 @@
 	{ "block": "alexscaves:ambersol", "color": "#ambersol", "radius": 15 },
 	{ "block": "alexscaves:bioluminescent_torch", "color": "#bioluminescent", "radius": 15 },
 
-	{ "block": "twilightforest:firefly", "color": "#firefly", "radius": 15 }
+	{ "block": "twilightforest:firefly", "color": "#firefly", "radius": 15 },
+	{ "block": "twilightforest:firefly_particle_spawner", "color": "#firefly", "radius": 15 },
+	{ "block": "twilightforest:firefly_jar", "color": "#firefly", "radius": 15 }
 
   ],
 
