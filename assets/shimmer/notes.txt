@@ -1,2 +1,5 @@
 uranium and ambersol ..... i don't understand them.       try increasing alpha and see what happens
 thats why i got a separate color for uranium block....
+
+
+twilightforest has false bloom on some items already       we adding in the shimmer on top of it    
