@@ -24,8 +24,10 @@
 	"radonBlue": { "r": 81, "g": 0, "b": 255, "a": 150 },
 	"radonGreen": { "r": 0, "g": 180, "b": 3, "a": 150 },
 	"radonRed": { "r": 255, "g": 0, "b": 0, "a": 150 },
-	  
-	"firefly": { "r": 192, "g": 255, "b": 0, "a": 150 }
+
+	"firefly": { "r": 192, "g": 255, "b": 0, "a": 127 },
+	"emerald": { "r": 23, "g": 221, "b": 98, "a": 127 },
+	"torchberry": { "r": 247, "g": 234, "b": 202, "a": 127}
   },
   
   "LightBlock": [
@@ -60,13 +62,19 @@
 	{ "block": "alexscaves:block_of_uranium", "color": "#uraniumblock", "radius": 4 },
 	{ "block": "alexscaves:uranium_rod", "color": "#uranium", "radius": 9 },
 	{ "block": "alexscaves:siren_light", "state": {"powered": true}, "color": "#uranium", "radius": 10 },
-	{ "block": "alexscaves:unrefined_waste", "color": "#uranium", "radius": 3 },
+	{ "block": "alexscaves:unrefined_waste", "color": "#uraniumblock", "radius": 3 },
 	{ "block": "alexscaves:ambersol", "color": "#ambersol", "radius": 15 },
 	{ "block": "alexscaves:bioluminescent_torch", "color": "#bioluminescent", "radius": 15 },
 
 	{ "block": "twilightforest:firefly", "color": "#firefly", "radius": 15 },
 	{ "block": "twilightforest:firefly_particle_spawner", "color": "#firefly", "radius": 15 },
-	{ "block": "twilightforest:firefly_jar", "color": "#firefly", "radius": 15 }
+	{ "block": "twilightforest:firefly_jar", "color": "#firefly", "radius": 15 },
+	{ "block": "twilightforest:moonworm", "color": "#firefly", "radius": 14 },
+	{ "block": "twilightforest:mining_log_core", "state": {"active": true}, "color": "#emerald", "radius": 15 },
+	{ "block": "twilightforest:trollber", "state": {"has_torchberries": true}, "color": "#torchberry", "radius": 15 },
+	{ "block": "twilightforest:mushgloom", "color": "#torchberry", "radius": 3 },
+	{ "block": "twilightforest:huge_mushgloom", "color": "#torchberry", "radius": 5 },
+	{ "block": "twilightforest:huge_mushgloom_stem", "color": "#torchberry", "radius": 5 }
 
   ],
 
@@ -89,9 +97,15 @@
 	{ "block": "alexscaves:radon_lamp_green" },
 	{ "block": "alexscaves:radon_lamp_red" },
 	{ "block": "alexscaves:bioluminescent_torch" },
-	{ "block": "alexscaves:unrefined_waste" },
+	
+	{ "block": "twilightforest:huge_mushgloom" },
+	{ "block": "twilightforest:towerdev_built_off" },
+	{ "block": "twilightforest:towerdev_built_on" },
 
-	{ "particle": "twilightforest:firefly" }
+	{ "particle": "twilightforest:firefly" },
+	{ "particle": "twilightforest:annihilate_particle" },
+	{ "particle": "twilightforest:ominous_flame" }
+	
 
   ]
 }
