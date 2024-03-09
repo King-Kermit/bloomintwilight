@@ -15,5 +15,3 @@ Someone please tell me how to get shimmer eyedropper to work.....        I'm doi
 
 
 
-
-Since someone will ask ... There is no license.
