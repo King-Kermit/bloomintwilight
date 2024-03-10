@@ -1,0 +1,11 @@
+{
+  "parent": "twilightforest:block/horizontal_hollow_log_overlay",
+  "textures": {
+    "inner": "minecraft:block/stripped_crimson_stem",
+    "side": "minecraft:block/crimson_stem",
+    "top": "minecraft:block/crimson_stem_top",
+	"inner_overlay": "minecraft:block/stripped_crimson_stem",
+	"side_overlay": "twilightforest:block/crimson_stem_glow",
+	"top_overlay": "twilightforest:block/crimson_stem_top_glow"
+  }
+}

@@ -99,8 +99,7 @@
 	{ "block": "alexscaves:bioluminescent_torch" },
 	
 	{ "block": "twilightforest:huge_mushgloom" },
-	{ "block": "twilightforest:towerdev_built_off" },
-	{ "block": "twilightforest:towerdev_built_on" },
+	{ "block": "twilightforest:aurora_block" },
 
 	{ "particle": "twilightforest:firefly" },
 	{ "particle": "twilightforest:annihilate_particle" },

@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/log_overlay",
+    "textures": {
+        "end": "twilightforest:block/mining_log_top",
+		"end_overlay": "twilightforest:block/mining_log_top",
+		"side": "twilightforest:block/mining_log_core_on",
+        "side_overlay": "twilightforest:block/mining_log_core_on_glow"
+    }
+}
