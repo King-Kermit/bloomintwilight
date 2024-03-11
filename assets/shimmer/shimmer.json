@@ -89,7 +89,7 @@
 	{ "block": "twilightforest:green_force_field", "color": "#greenforcefield", "radius": 2 },
 	{ "block": "twilightforest:orange_force_field", "color": "#orangeforcefield", "radius": 2 },
 	{ "block": "twilightforest:pink_force_field", "color": "#pinkforcefield", "radius": 2 },
-	{ "block": "twilightforest:reappearing_block", "state": {"active": false, "vanished": false}, "color": "#towerdevicered", "radius": 14 },
+	{ "block": "twilightforest:reappearing_block", "state": {"active": false, "vanished": false}, "color": "#towerdevicered", "radius": 4 },
 	{ "block": "twilightforest:reappearing_block", "state": {"active": true, "vanished": false}, "color": "#towerdevicegreen", "radius": 4 },
 	{ "block": "twilightforest:reappearing_block", "state": {"active": false, "vanished": true}, "color": "#towerdevicered", "radius": 4 },
 	{ "block": "twilightforest:reappearing_block", "state": {"active": true, "vanished": true}, "color": "#towerdevicegreen", "radius": 4 },
