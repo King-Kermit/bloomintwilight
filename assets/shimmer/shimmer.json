@@ -75,7 +75,7 @@
 	{ "block": "alexscaves:ambersol", "color": "#ambersol", "radius": 15 },
 	{ "block": "alexscaves:bioluminescent_torch", "color": "#bioluminescent", "radius": 15 },
 
-	{ "block": "twilightforest:firefly", "state": {"facing": "up"}, "color": "#firefly", "radius": 15 },
+	{ "block": "twilightforest:firefly", "color": "#firefly", "radius": 15 },
 	{ "block": "twilightforest:firefly_particle_spawner", "color": "#firefly", "radius": 15 },
 	{ "block": "twilightforest:firefly_jar", "color": "#firefly", "radius": 15 },
 	{ "block": "twilightforest:moonworm", "color": "#firefly", "radius": 14 },
